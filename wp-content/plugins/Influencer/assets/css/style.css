@@ -1,0 +1,9 @@
+.h1{
+    color: blueviolet;
+}
+#companyForm label.error{
+    color: red !important;
+}
+#influencerForm label.error{
+    color: red !important;
+}
